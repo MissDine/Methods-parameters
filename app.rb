@@ -12,8 +12,8 @@ end
 puts add(3) + add(4)  
 # the above method prints both numbers and their sum 
 def mult no1, no2
-    puts no1
-    puts no2
+    # puts no1
+    # puts no2
     no1 * no2
 end
 
